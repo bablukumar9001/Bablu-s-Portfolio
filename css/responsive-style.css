@@ -97,6 +97,7 @@
   .banner-wrapper .blink{
     font-size: 40px;
     line-height: 48px;
+    margin-left: 16px;
 
   }
   @keyframes animated-text {
