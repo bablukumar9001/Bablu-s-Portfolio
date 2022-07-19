@@ -159,10 +159,10 @@
 
 @media(max-width:468px) {
   .myphoto {
-    right: 115px;
+    right: 146px;
     width: 145px;
     height: 178px;
-    top: 522px;
+    top: 474px;
   }
    
   @keyframes animated-text {
