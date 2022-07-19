@@ -176,13 +176,43 @@
   
 }
 }
+@media(max-width:450px) {
+  .myphoto {
+    right: 116px;
+    width: 145px;
+    height: 178px;
+    top: 478px;
+}
+  
+  h1 span {
+    color: var(--primary-color);
+    font-size: 33px;
+}
+}
 
-@media(max-width:366px) {
+
+@media(max-width:390px) {
+  .myphoto {
+    right: 116px;
+    width: 145px;
+    height: 178px;
+    top: 479px;
+}
+  
+  h1 span {
+    color: var(--primary-color);
+    font-size: 31px;
+}
+}
+
+
+
+@media(max-width:375px) {
   .myphoto {
     right: 99px;
     width: 145px;
     height: 178px;
-    top: 522px;
+    top: 528px;
   }
 
   @keyframes animated-text {
